@@ -1,0 +1,81 @@
+21:40:58.723: Using EGL/X11
+21:40:58.723: CPU Name: AMD Ryzen 7 7800X3D 8-Core Processor
+21:40:58.723: CPU Speed: 3340.972MHz
+21:40:58.724: Physical Cores: 8, Logical Cores: 16
+21:40:58.724: Physical Memory: 31219MB Total, 18387MB Free
+21:40:58.724: Kernel Version: Linux 6.12.31-gentoo-gentoo-dist
+21:40:58.724: Distribution: Gentoo "2.17"
+21:40:58.724: Session Type: tty
+21:40:58.724: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+21:40:58.724: Current Date/Time: 2025-08-29, 21:40:58
+21:40:58.724: Browser Hardware Acceleration: true
+21:40:58.724: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+21:40:58.724: Portable mode: false
+21:40:58.738: OBS 32.0.0-beta1-modified (linux)
+21:40:58.738: ---------------------------------
+21:40:58.738: ---------------------------------
+21:40:58.738: audio settings reset:
+21:40:58.738: 	samples per sec: 48000
+21:40:58.738: 	speakers:        2
+21:40:58.738: 	max buffering:   960 milliseconds
+21:40:58.738: 	buffering type:  dynamically increasing
+21:40:58.739: ---------------------------------
+21:40:58.739: Initializing OpenGL...
+21:40:58.831: Loading up OpenGL on adapter AMD AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 20.1.8, DRM 3.61, 6.12.31-gentoo-gentoo-dist)
+21:40:58.831: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.1.7, shading language 4.60
+21:40:58.854: ---------------------------------
+21:40:58.854: video settings reset:
+21:40:58.854: 	base resolution:   2560x1440
+21:40:58.854: 	output resolution: 1920x1080
+21:40:58.854: 	downscale filter:  Bicubic
+21:40:58.854: 	fps:               60/1
+21:40:58.854: 	format:            NV12
+21:40:58.854: 	YUV mode:          Rec. 709/Partial
+21:40:58.854: NV12 texture support enabled
+21:40:58.854: P010 texture support not available
+21:40:58.857: ---------------------------------
+21:40:58.887: [pipewire] No capture sources available
+21:40:58.894: FFmpeg VAAPI H264 encoding not supported
+21:40:58.894: FFmpeg VAAPI AV1 encoding not supported
+21:40:58.894: FFmpeg VAAPI HEVC encoding not supported
+21:40:58.920: ---------------------------------
+21:40:58.920:   Loaded Modules:
+21:40:58.920:     text-freetype2.so
+21:40:58.920:     rtmp-services.so
+21:40:58.920:     obs-x264.so
+21:40:58.920:     obs-vst.so
+21:40:58.920:     obs-transitions.so
+21:40:58.920:     obs-outputs.so
+21:40:58.920:     obs-filters.so
+21:40:58.920:     obs-ffmpeg.so
+21:40:58.920:     linux-pipewire.so
+21:40:58.920:     linux-capture.so
+21:40:58.920:     linux-alsa.so
+21:40:58.920:     image-source.so
+21:40:58.920:     frontend-tools.so
+21:40:58.920: ---------------------------------
+21:40:58.920: ---------------------------------
+21:40:58.920: Available Encoders:
+21:40:58.920:   Video Encoders:
+21:40:58.920: 	- obs_x264 (x264)
+21:40:58.920:   Audio Encoders:
+21:40:58.920: 	- ffmpeg_aac (FFmpeg AAC)
+21:40:58.920: 	- ffmpeg_opus (FFmpeg Opus)
+21:40:58.920: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+21:40:58.920: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+21:40:58.920: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+21:40:58.920: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+21:40:58.920: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+21:40:58.920: ==== Startup complete ===============================================
+21:40:58.952: All scene data cleared
+21:40:58.952: ------------------------------------------------
+21:40:58.952: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:40:58.953: Switched to scene 'Scene'
+21:40:58.953: ------------------------------------------------
+21:40:58.953: Loaded scenes:
+21:40:58.953: - scene 'Scene':
+21:40:58.953:     - source: 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source)
+21:40:58.953: ------------------------------------------------
+21:40:58.982: [camera-portal] Error accessing camera: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Camera” on object at path /org/freedesktop/portal/desktop
+21:41:06.142: [camera-portal] Selected format for ''
+21:41:06.142: [camera-portal] selected camera ''

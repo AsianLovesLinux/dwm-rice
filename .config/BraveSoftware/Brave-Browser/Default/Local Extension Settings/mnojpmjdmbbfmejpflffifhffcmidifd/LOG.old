@@ -1,0 +1,47 @@
+2025/09/01-16:39:06.694 17dc Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/09/01-16:39:06.694 17dc Recovering log #309
+2025/09/01-16:39:06.696 17dc Reusing old log /home/ryan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000309.log 
+2025/09/01-16:44:07.359 17cc Compacting 2@0 + 1@1 files
+2025/09/01-16:44:07.369 17cc Generated table #312@0: 29 keys, 64317 bytes
+2025/09/01-16:44:07.369 17cc Compacted 2@0 + 1@1 files => 64317 bytes
+2025/09/01-16:44:07.370 17cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/01-16:44:07.370 17cc Delete type=2 #304
+2025/09/01-16:44:07.370 17cc Delete type=2 #307
+2025/09/01-16:44:07.370 17cc Delete type=2 #310
+2025/09/01-16:59:07.839 17cc Compacting 1@1 + 1@2 files
+2025/09/01-16:59:07.839 17cc Level-0 table #314: started
+2025/09/01-16:59:07.844 17cc Level-0 table #314: 293873 bytes OK
+2025/09/01-16:59:07.846 17cc Delete type=0 #309
+2025/09/01-16:59:07.849 17cc Generated table #315@1: 29 keys, 64317 bytes
+2025/09/01-16:59:07.849 17cc Compacted 1@1 + 1@2 files => 64317 bytes
+2025/09/01-16:59:07.850 17cc compacted to: files[ 1 0 1 0 0 0 0 ]
+2025/09/01-16:59:07.850 17cc Delete type=2 #289
+2025/09/01-16:59:07.850 17cc Delete type=2 #312
+2025/09/01-17:11:08.229 17cc Moved #314 to level-1 293873 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/09/01-17:13:28.943 17cb Level-0 table #317: started
+2025/09/01-17:13:28.950 17cb Level-0 table #317: 298066 bytes OK
+2025/09/01-17:13:28.952 17cb Delete type=0 #313
+2025/09/01-17:16:09.009 17cb Level-0 table #319: started
+2025/09/01-17:16:09.016 17cb Level-0 table #319: 296272 bytes OK
+2025/09/01-17:16:09.018 17cb Delete type=0 #316
+2025/09/01-17:18:49.286 17cb Level-0 table #321: started
+2025/09/01-17:18:49.294 17cb Level-0 table #321: 295546 bytes OK
+2025/09/01-17:18:49.296 17cb Delete type=0 #318
+2025/09/01-17:19:04.255 17cc Level-0 table #323: started
+2025/09/01-17:19:04.263 17cc Level-0 table #323: 294706 bytes OK
+2025/09/01-17:19:04.265 17cc Delete type=0 #320
+2025/09/01-17:19:04.265 17cc Compacting 4@0 + 1@1 files
+2025/09/01-17:19:04.276 17cc Generated table #324@0: 58 keys, 64608 bytes
+2025/09/01-17:19:04.276 17cc Compacted 4@0 + 1@1 files => 64608 bytes
+2025/09/01-17:19:04.277 17cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/01-17:19:04.277 17cc Delete type=2 #321
+2025/09/01-17:19:04.277 17cc Delete type=2 #323
+2025/09/01-17:19:04.277 17cc Delete type=2 #314
+2025/09/01-17:19:04.277 17cc Delete type=2 #317
+2025/09/01-17:19:04.278 17cc Delete type=2 #319
+2025/09/01-17:19:24.292 17cc Level-0 table #326: started
+2025/09/01-17:19:24.300 17cc Level-0 table #326: 296305 bytes OK
+2025/09/01-17:19:24.301 17cc Delete type=0 #322
+2025/09/01-17:19:39.322 17cb Level-0 table #328: started
+2025/09/01-17:19:39.330 17cb Level-0 table #328: 296226 bytes OK
+2025/09/01-17:19:39.331 17cb Delete type=0 #325

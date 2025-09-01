@@ -1,0 +1,191 @@
+19:27:21.886: Using EGL/X11
+19:27:21.886: CPU Name: AMD Ryzen 7 7800X3D 8-Core Processor
+19:27:21.886: CPU Speed: 3356.507MHz
+19:27:21.887: Physical Cores: 8, Logical Cores: 16
+19:27:21.887: Physical Memory: 31218MB Total, 23469MB Free
+19:27:21.887: Kernel Version: Linux 6.12.31-gentoo-gentoo-dist
+19:27:21.887: Distribution: Gentoo "2.17"
+19:27:21.887: Session Type: tty
+19:27:21.887: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+19:27:21.887: Current Date/Time: 2025-08-30, 19:27:21
+19:27:21.887: Browser Hardware Acceleration: true
+19:27:21.887: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+19:27:21.887: Portable mode: false
+19:27:21.917: OBS 32.0.0-beta1-modified (linux)
+19:27:21.917: ---------------------------------
+19:27:21.918: ---------------------------------
+19:27:21.918: audio settings reset:
+19:27:21.918: 	samples per sec: 48000
+19:27:21.918: 	speakers:        2
+19:27:21.918: 	max buffering:   960 milliseconds
+19:27:21.918: 	buffering type:  dynamically increasing
+19:27:21.919: ---------------------------------
+19:27:21.919: Initializing OpenGL...
+19:27:22.008: Loading up OpenGL on adapter AMD AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 20.1.8, DRM 3.61, 6.12.31-gentoo-gentoo-dist)
+19:27:22.008: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.1.7, shading language 4.60
+19:27:22.035: ---------------------------------
+19:27:22.035: video settings reset:
+19:27:22.035: 	base resolution:   2560x1440
+19:27:22.035: 	output resolution: 1920x1080
+19:27:22.035: 	downscale filter:  Bicubic
+19:27:22.035: 	fps:               60/1
+19:27:22.035: 	format:            NV12
+19:27:22.035: 	YUV mode:          Rec. 709/Partial
+19:27:22.035: NV12 texture support enabled
+19:27:22.035: P010 texture support not available
+19:27:22.039: ---------------------------------
+19:27:22.071: [pipewire] No capture sources available
+19:27:22.087: FFmpeg VAAPI H264 encoding not supported
+19:27:22.087: FFmpeg VAAPI AV1 encoding not supported
+19:27:22.087: FFmpeg VAAPI HEVC encoding not supported
+19:27:22.120: ---------------------------------
+19:27:22.120:   Loaded Modules:
+19:27:22.120:     text-freetype2.so
+19:27:22.120:     rtmp-services.so
+19:27:22.120:     obs-x264.so
+19:27:22.120:     obs-vst.so
+19:27:22.120:     obs-transitions.so
+19:27:22.120:     obs-outputs.so
+19:27:22.120:     obs-filters.so
+19:27:22.120:     obs-ffmpeg.so
+19:27:22.120:     linux-pipewire.so
+19:27:22.120:     linux-capture.so
+19:27:22.120:     linux-alsa.so
+19:27:22.120:     image-source.so
+19:27:22.120:     frontend-tools.so
+19:27:22.120: ---------------------------------
+19:27:22.121: ---------------------------------
+19:27:22.121: Available Encoders:
+19:27:22.121:   Video Encoders:
+19:27:22.121: 	- obs_x264 (x264)
+19:27:22.121:   Audio Encoders:
+19:27:22.121: 	- ffmpeg_aac (FFmpeg AAC)
+19:27:22.121: 	- ffmpeg_opus (FFmpeg Opus)
+19:27:22.121: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:27:22.121: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:27:22.121: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+19:27:22.121: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:27:22.121: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:27:22.121: ==== Startup complete ===============================================
+19:27:22.153: All scene data cleared
+19:27:22.153: ------------------------------------------------
+19:27:22.156: Switched to scene 'Scene'
+19:27:22.156: ------------------------------------------------
+19:27:22.156: Loaded scenes:
+19:27:22.156: - scene 'Scene':
+19:27:22.157:     - source: 'Display Capture (XSHM)' (xshm_input_v2)
+19:27:22.157: ------------------------------------------------
+19:27:28.512: User Removed source 'Display Capture (XSHM)' (xshm_input_v2) from scene 'Scene'
+19:27:42.850: Get on org.freedesktop.portal.Settings returned an invalid reply
+19:27:42.850: Get on org.freedesktop.portal.Settings returned an invalid reply
+19:27:50.338: Get on org.freedesktop.portal.Settings returned an invalid reply
+19:27:50.338: Get on org.freedesktop.portal.Settings returned an invalid reply
+19:28:00.808: failed to create compose table
+19:29:11.499: Settings changed (general, stream 1, outputs)
+19:29:11.499: ------------------------------------------------
+19:29:22.742: User added source 'Display Capture (XSHM)' (xshm_input_v2) to scene 'Scene'
+19:29:24.621: xshm-input: Geometry 2560x1440 @ 0,0
+19:29:58.204: ---------------------------------
+19:29:58.204: [x264 encoder: 'simple_video_stream'] preset: veryfast
+19:29:58.208: [x264 encoder: 'simple_video_stream'] settings:
+19:29:58.208: 	rate_control: CBR
+19:29:58.208: 	bitrate:      2500
+19:29:58.208: 	buffer size:  2500
+19:29:58.208: 	crf:          23
+19:29:58.208: 	fps_num:      60
+19:29:58.208: 	fps_den:      1
+19:29:58.208: 	width:        1920
+19:29:58.208: 	height:       1080
+19:29:58.208: 	keyint:       120
+19:29:58.208: 
+19:29:58.214: ---------------------------------
+19:29:58.214: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+19:29:58.214: 
+19:29:58.215: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+19:29:58.734: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 (2607:f8b0:4009:805::200c) successful
+19:29:58.735: ==== Streaming Start ===============================================
+19:32:44.717: alsa-input: PCM 'default' rate set to 44100
+19:32:44.717: alsa-input: PCM 'default' channels set to 2
+19:32:44.724: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+19:32:45.502: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio Capture Device (ALSA))
+19:32:45.502: 
+19:50:59.594: User Removed source 'Audio Capture Device (ALSA)' (alsa_input_capture) from scene 'Scene'
+19:51:11.754: alsa-input: PCM 'default' rate set to 44100
+19:51:11.754: alsa-input: PCM 'default' channels set to 2
+19:51:11.761: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+20:07:36.890: [rtmp stream: 'simple_stream'] User stopped the stream
+20:07:36.891: Output 'simple_stream': stopping
+20:07:36.891: Output 'simple_stream': Total frames output: 135450
+20:07:36.891: Output 'simple_stream': Total drawn frames: 135518 (135521 attempted)
+20:07:36.891: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 3 (0.0%)
+20:07:36.891: ==== Streaming Stop ================================================
+20:08:28.752: ==== Shutting down ==================================================
+20:08:28.803: All scene data cleared
+20:08:28.803: ------------------------------------------------
+20:08:28.864: Freeing OBS context data
+20:08:28.879: == Profiler Results =============================
+20:08:28.879: run_program_init: 340.554 ms
+20:08:28.879:  ┣OBSApp::AppInit: 16.153 ms
+20:08:28.879:  ┃ ┗OBSApp::InitLocale: 1.564 ms
+20:08:28.879:  ┗OBSApp::OBSInit: 285.944 ms
+20:08:28.879:    ┣obs_startup: 0.941 ms
+20:08:28.879:    ┗OBSBasic::OBSInit: 254.895 ms
+20:08:28.879:      ┣OBSBasic::InitBasicConfig: 0.805 ms
+20:08:28.879:      ┣OBSBasic::ResetAudio: 0.167 ms
+20:08:28.879:      ┣OBSBasic::ResetVideo: 118.979 ms
+20:08:28.879:      ┃ ┗obs_init_graphics: 116.636 ms
+20:08:28.879:      ┃   ┗shader compilation: 25.863 ms
+20:08:28.879:      ┣OBSBasic::InitOBSCallbacks: 0.001 ms
+20:08:28.879:      ┣OBSBasic::InitHotkeys: 0.012 ms
+20:08:28.879:      ┣obs_load_all_modules2: 81.487 ms
+20:08:28.879:      ┃ ┣obs_init_module(frontend-tools.so): 1.103 ms
+20:08:28.879:      ┃ ┣obs_init_module(image-source.so): 0.007 ms
+20:08:28.879:      ┃ ┣obs_init_module(linux-alsa.so): 0.003 ms
+20:08:28.879:      ┃ ┣obs_init_module(linux-capture.so): 0.343 ms
+20:08:28.879:      ┃ ┣obs_init_module(linux-pipewire.so): 8.724 ms
+20:08:28.879:      ┃ ┣obs_init_module(obs-ffmpeg.so): 2.288 ms
+20:08:28.879:      ┃ ┣obs_init_module(obs-filters.so): 0.021 ms
+20:08:28.879:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+20:08:28.879:      ┃ ┣obs_init_module(obs-transitions.so): 0.007 ms
+20:08:28.879:      ┃ ┣obs_init_module(obs-vst.so): 0.002 ms
+20:08:28.879:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+20:08:28.880:      ┃ ┣obs_init_module(rtmp-services.so): 1.19 ms
+20:08:28.880:      ┃ ┗obs_init_module(text-freetype2.so): 0.017 ms
+20:08:28.880:      ┣OBSBasic::InitService: 1.401 ms
+20:08:28.880:      ┣OBSBasic::ResetOutputs: 0.267 ms
+20:08:28.880:      ┣OBSBasic::CreateHotkeys: 0.017 ms
+20:08:28.880:      ┣OBSBasic::InitPrimitives: 0.052 ms
+20:08:28.880:      ┗OBSBasic::Load: 34.127 ms
+20:08:28.880: obs_hotkey_thread(25 ms): min=0.041 ms, median=0.064 ms, max=24.767 ms, 99th percentile=2.603 ms, 100% below 25 ms
+20:08:28.880: audio_thread(Audio): min=0.002 ms, median=0.34 ms, max=18.37 ms, 99th percentile=2.399 ms
+20:08:28.880:  ┗receive_audio: min=0.009 ms, median=0.319 ms, max=11.127 ms, 99th percentile=1.995 ms, 0.915365 calls per parent call
+20:08:28.880:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.061 ms, 99th percentile=0.003 ms
+20:08:28.880:    ┗do_encode: min=0.024 ms, median=0.317 ms, max=11.123 ms, 99th percentile=1.991 ms
+20:08:28.880:      ┣encode(simple_aac): min=0.023 ms, median=0.313 ms, max=11.112 ms, 99th percentile=0.49 ms
+20:08:28.880:      ┗send_packet: min=0 ms, median=0.004 ms, max=9.208 ms, 99th percentile=1.107 ms
+20:08:28.880: obs_graphics_thread(16.6667 ms): min=0.06 ms, median=2.716 ms, max=44.966 ms, 99th percentile=12.57 ms, 99.8189% below 16.667 ms
+20:08:28.880:  ┣tick_sources: min=0 ms, median=1.85 ms, max=39.168 ms, 99th percentile=8.945 ms
+20:08:28.880:  ┣output_frame: min=0.036 ms, median=0.631 ms, max=19.164 ms, 99th percentile=1.953 ms
+20:08:28.880:  ┃ ┣gs_context(video->graphics): min=0.036 ms, median=0.119 ms, max=19.163 ms, 99th percentile=0.512 ms
+20:08:28.880:  ┃ ┃ ┣render_video: min=0.002 ms, median=0.045 ms, max=10.482 ms, 99th percentile=0.139 ms
+20:08:28.880:  ┃ ┃ ┃ ┣render_main_texture: min=0.002 ms, median=0.022 ms, max=5.969 ms, 99th percentile=0.071 ms
+20:08:28.880:  ┃ ┃ ┃ ┣render_output_texture: min=0.005 ms, median=0.006 ms, max=7.317 ms, 99th percentile=0.019 ms, 0.915422 calls per parent call
+20:08:28.880:  ┃ ┃ ┃ ┣render_convert_texture: min=0.007 ms, median=0.01 ms, max=4.804 ms, 99th percentile=0.03 ms, 0.915422 calls per parent call
+20:08:28.880:  ┃ ┃ ┃ ┗stage_output_texture: min=0.004 ms, median=0.005 ms, max=5.861 ms, 99th percentile=0.015 ms, 0.915422 calls per parent call
+20:08:28.880:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.002 ms, max=8.344 ms, 99th percentile=0.079 ms
+20:08:28.880:  ┃ ┃ ┗download_frame: min=0 ms, median=0.019 ms, max=5.066 ms, 99th percentile=0.09 ms, 0.915422 calls per parent call
+20:08:28.880:  ┃ ┗output_video_data: min=0.19 ms, median=0.509 ms, max=11.011 ms, 99th percentile=1.049 ms, 0.915415 calls per parent call
+20:08:28.880:  ┗render_displays: min=0.001 ms, median=0.232 ms, max=19.625 ms, 99th percentile=3.712 ms
+20:08:28.880: OBSBasicSettings::LoadThemeList: min=0.015 ms, median=0 ms, max=0.017 ms, 99th percentile=0.017 ms
+20:08:28.880: OBSBasic::ResetOutputs: 0.122 ms
+20:08:28.880: video_thread(video): min=0.581 ms, median=0.761 ms, max=17.671 ms, 99th percentile=5.337 ms
+20:08:28.880:  ┗receive_video: min=0.581 ms, median=0.761 ms, max=17.465 ms, 99th percentile=5.225 ms
+20:08:28.880:    ┗do_encode: min=0.58 ms, median=0.76 ms, max=17.464 ms, 99th percentile=5.224 ms
+20:08:28.880:      ┣encode(simple_video_stream): min=0.577 ms, median=0.756 ms, max=16.544 ms, 99th percentile=5.134 ms
+20:08:28.880:      ┗send_packet: min=0.001 ms, median=0.003 ms, max=9.732 ms, 99th percentile=0.048 ms
+20:08:28.880: =================================================
+20:08:28.880: == Profiler Time Between Calls ==================
+20:08:28.880: obs_hotkey_thread(25 ms): min=25.056 ms, median=25.122 ms, max=49.827 ms, 96.2593% within ±2% of 25 ms (0% lower, 3.74072% higher)
+20:08:28.880: obs_graphics_thread(16.6667 ms): min=5.327 ms, median=16.667 ms, max=44.972 ms, 98.9149% within ±2% of 16.667 ms (0.542553% lower, 0.542553% higher)
+20:08:28.880: =================================================
+20:08:28.913: Number of memory leaks: 0

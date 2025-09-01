@@ -1,0 +1,29 @@
+2025/08/30-19:23:11.889 465 Creating DB /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb since it was missing.
+2025/08/30-19:23:11.893 465 Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/30-19:23:11.897 467 Level-0 table #5: started
+2025/08/30-19:23:11.899 467 Level-0 table #5: 570 bytes OK
+2025/08/30-19:23:11.900 467 Delete type=0 #3
+2025/08/30-19:23:11.900 465 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/30-19:23:12.847 465 Level-0 table #7: started
+2025/08/30-19:23:12.849 465 Level-0 table #7: 541 bytes OK
+2025/08/30-19:23:12.850 465 Delete type=0 #4
+2025/08/30-19:23:12.850 465 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/30-19:23:14.855 466 Level-0 table #9: started
+2025/08/30-19:23:14.857 466 Level-0 table #9: 230 bytes OK
+2025/08/30-19:23:14.858 466 Delete type=0 #6
+2025/08/30-19:23:14.858 466 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 38 : 0
+2025/08/30-19:23:14.858 466 Compacting 1@0 + 1@1 files
+2025/08/30-19:23:14.860 466 Generated table #10@0: 10 keys, 492 bytes
+2025/08/30-19:23:14.860 466 Compacted 1@0 + 1@1 files => 492 bytes
+2025/08/30-19:23:14.861 466 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/30-19:23:14.861 466 Delete type=2 #7
+2025/08/30-19:23:14.861 466 Delete type=2 #9
+2025/08/30-19:23:14.861 466 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 38 : 0 .. (end); will stop at (end)
+2025/08/30-19:23:14.861 466 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x1c\x00h\x00t\x00t\x00p\x00s\x00_\x00o\x00u\x00t\x00l\x00o\x00o\x00k\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x13\x00o\x00w\x00a\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00-\x00a\x00c\x00t\x00i\x00o\x00n\x00s' @ 28 : 0
+2025/08/30-19:23:14.861 466 Compacting 1@1 + 1@2 files
+2025/08/30-19:23:14.862 466 Generated table #11@1: 5 keys, 237 bytes
+2025/08/30-19:23:14.862 466 Compacted 1@1 + 1@2 files => 237 bytes
+2025/08/30-19:23:14.864 466 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-19:23:14.864 466 Delete type=2 #5
+2025/08/30-19:23:14.864 466 Delete type=2 #10
+2025/08/30-19:23:14.864 466 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x1c\x00h\x00t\x00t\x00p\x00s\x00_\x00o\x00u\x00t\x00l\x00o\x00o\x00k\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x13\x00o\x00w\x00a\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00-\x00a\x00c\x00t\x00i\x00o\x00n\x00s' @ 28 : 0 .. (end); will stop at (end)

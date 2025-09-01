@@ -1,0 +1,6 @@
+2025/08/29-22:52:48.745 12a269 Creating DB /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.xvideos.com_0.indexeddb.leveldb since it was missing.
+2025/08/29-22:52:48.749 12a269 Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.xvideos.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/29-22:52:54.605 12a26a Level-0 table #5: started
+2025/08/29-22:52:54.607 12a26a Level-0 table #5: 4181 bytes OK
+2025/08/29-22:52:54.608 12a26a Delete type=0 #3
+2025/08/29-22:52:54.609 12a26a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

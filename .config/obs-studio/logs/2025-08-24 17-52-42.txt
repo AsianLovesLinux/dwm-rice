@@ -1,0 +1,106 @@
+17:52:42.555: Using EGL/X11
+17:52:42.556: CPU Name: AMD Ryzen 7 7800X3D 8-Core Processor
+17:52:42.556: CPU Speed: 545.000MHz
+17:52:42.556: Physical Cores: 8, Logical Cores: 16
+17:52:42.556: Physical Memory: 31219MB Total, 26200MB Free
+17:52:42.556: Kernel Version: Linux 6.12.31-gentoo-gentoo-dist
+17:52:42.556: Distribution: Gentoo "2.17"
+17:52:42.556: Session Type: tty
+17:52:42.556: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:52:42.556: Current Date/Time: 2025-08-24, 17:52:42
+17:52:42.556: Browser Hardware Acceleration: true
+17:52:42.556: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+17:52:42.556: Portable mode: false
+17:52:42.570: OBS 31.1.2-69-g86f98beaf-modified (linux)
+17:52:42.570: ---------------------------------
+17:52:42.570: ---------------------------------
+17:52:42.570: audio settings reset:
+17:52:42.570: 	samples per sec: 48000
+17:52:42.570: 	speakers:        2
+17:52:42.570: 	max buffering:   960 milliseconds
+17:52:42.570: 	buffering type:  dynamically increasing
+17:52:42.571: ---------------------------------
+17:52:42.571: Initializing OpenGL...
+17:52:42.623: Loading up OpenGL on adapter AMD AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 20.1.7, DRM 3.61, 6.12.31-gentoo-gentoo-dist)
+17:52:42.623: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.1.7, shading language 4.60
+17:52:42.642: ---------------------------------
+17:52:42.642: video settings reset:
+17:52:42.642: 	base resolution:   2560x1440
+17:52:42.642: 	output resolution: 1920x1080
+17:52:42.642: 	downscale filter:  Bicubic
+17:52:42.642: 	fps:               60/1
+17:52:42.642: 	format:            NV12
+17:52:42.642: 	YUV mode:          Rec. 709/Partial
+17:52:42.642: NV12 texture support enabled
+17:52:42.642: P010 texture support not available
+17:52:42.645: ---------------------------------
+17:52:42.675: [pipewire] No capture sources available
+17:52:42.682: FFmpeg VAAPI H264 encoding not supported
+17:52:42.682: FFmpeg VAAPI AV1 encoding not supported
+17:52:42.682: FFmpeg VAAPI HEVC encoding not supported
+17:52:42.707: ---------------------------------
+17:52:42.707:   Loaded Modules:
+17:52:42.707:     text-freetype2.so
+17:52:42.707:     rtmp-services.so
+17:52:42.707:     obs-x264.so
+17:52:42.707:     obs-vst.so
+17:52:42.707:     obs-transitions.so
+17:52:42.707:     obs-outputs.so
+17:52:42.708:     obs-filters.so
+17:52:42.708:     obs-ffmpeg.so
+17:52:42.708:     linux-pipewire.so
+17:52:42.708:     linux-capture.so
+17:52:42.708:     linux-alsa.so
+17:52:42.708:     image-source.so
+17:52:42.708:     frontend-tools.so
+17:52:42.708: ---------------------------------
+17:52:42.708: ---------------------------------
+17:52:42.708: Available Encoders:
+17:52:42.708:   Video Encoders:
+17:52:42.708: 	- obs_x264 (x264)
+17:52:42.708:   Audio Encoders:
+17:52:42.708: 	- ffmpeg_aac (FFmpeg AAC)
+17:52:42.708: 	- ffmpeg_opus (FFmpeg Opus)
+17:52:42.708: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+17:52:42.708: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+17:52:42.708: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+17:52:42.708: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+17:52:42.708: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+17:52:42.708: ==== Startup complete ===============================================
+17:52:42.741: All scene data cleared
+17:52:42.741: ------------------------------------------------
+17:52:42.742: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:52:42.742: 	title: Monkeytype | A minimalistic, customizable typing test - Brave
+17:52:42.742: 	class: brave-browser
+17:52:42.742: 
+17:52:42.742: Switched to scene 'Scene'
+17:52:42.742: ------------------------------------------------
+17:52:42.742: Loaded scenes:
+17:52:42.742: - scene 'Scene':
+17:52:42.742:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+17:52:42.742: ------------------------------------------------
+17:52:48.622: ---------------------------------
+17:52:48.622: [x264 encoder: 'simple_video_recording'] preset: veryfast
+17:52:48.622: [x264 encoder: 'simple_video_recording'] profile: high
+17:52:48.626: [x264 encoder: 'simple_video_recording'] settings:
+17:52:48.626: 	rate_control: CRF
+17:52:48.626: 	bitrate:      0
+17:52:48.626: 	buffer size:  0
+17:52:48.626: 	crf:          23
+17:52:48.626: 	fps_num:      60
+17:52:48.626: 	fps_den:      1
+17:52:48.626: 	width:        1920
+17:52:48.626: 	height:       1080
+17:52:48.626: 	keyint:       250
+17:52:48.626: 
+17:52:48.632: ---------------------------------
+17:52:48.632: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+17:52:48.632: 
+17:52:48.634: ==== Recording Start ===============================================
+17:52:48.634: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ryan/2025-08-24 17-52-48.mkv'...
+17:53:03.500: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ryan/2025-08-24 17-52-48.mkv' stopped
+17:53:03.500: Output 'simple_file_output': stopping
+17:53:03.500: Output 'simple_file_output': Total frames output: 854
+17:53:03.500: Output 'simple_file_output': Total drawn frames: 892
+17:53:03.500: ==== Recording Stop ================================================
+18:00:07.690: xcb_shm_create_segment() failed for size 3198624

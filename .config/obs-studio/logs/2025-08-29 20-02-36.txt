@@ -1,0 +1,89 @@
+20:02:36.927: Using EGL/X11
+20:02:36.927: CPU Name: AMD Ryzen 7 7800X3D 8-Core Processor
+20:02:36.927: CPU Speed: 4794.105MHz
+20:02:36.927: Physical Cores: 8, Logical Cores: 16
+20:02:36.928: Physical Memory: 31219MB Total, 14566MB Free
+20:02:36.928: Kernel Version: Linux 6.12.31-gentoo-gentoo-dist
+20:02:36.928: Distribution: Gentoo "2.17"
+20:02:36.928: Session Type: tty
+20:02:36.928: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+20:02:36.928: Current Date/Time: 2025-08-29, 20:02:36
+20:02:36.928: Browser Hardware Acceleration: true
+20:02:36.928: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+20:02:36.928: Portable mode: false
+20:02:36.969: OBS 31.1.2-69-g86f98beaf-modified (linux)
+20:02:36.969: ---------------------------------
+20:02:36.970: ---------------------------------
+20:02:36.970: audio settings reset:
+20:02:36.970: 	samples per sec: 48000
+20:02:36.970: 	speakers:        2
+20:02:36.970: 	max buffering:   960 milliseconds
+20:02:36.970: 	buffering type:  dynamically increasing
+20:02:36.974: ---------------------------------
+20:02:36.974: Initializing OpenGL...
+20:02:37.144: Loading up OpenGL on adapter AMD AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 20.1.7, DRM 3.61, 6.12.31-gentoo-gentoo-dist)
+20:02:37.144: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.1.7, shading language 4.60
+20:02:37.190: ---------------------------------
+20:02:37.190: video settings reset:
+20:02:37.190: 	base resolution:   2560x1440
+20:02:37.190: 	output resolution: 1920x1080
+20:02:37.190: 	downscale filter:  Bicubic
+20:02:37.190: 	fps:               60/1
+20:02:37.190: 	format:            NV12
+20:02:37.190: 	YUV mode:          Rec. 709/Partial
+20:02:37.190: NV12 texture support enabled
+20:02:37.191: P010 texture support not available
+20:02:37.195: ---------------------------------
+20:02:37.261: [pipewire] No capture sources available
+20:02:37.283: FFmpeg VAAPI H264 encoding not supported
+20:02:37.283: FFmpeg VAAPI AV1 encoding not supported
+20:02:37.283: FFmpeg VAAPI HEVC encoding not supported
+20:02:37.333: ---------------------------------
+20:02:37.333:   Loaded Modules:
+20:02:37.333:     text-freetype2.so
+20:02:37.333:     rtmp-services.so
+20:02:37.333:     obs-x264.so
+20:02:37.333:     obs-vst.so
+20:02:37.333:     obs-transitions.so
+20:02:37.333:     obs-outputs.so
+20:02:37.333:     obs-filters.so
+20:02:37.333:     obs-ffmpeg.so
+20:02:37.333:     linux-pipewire.so
+20:02:37.333:     linux-capture.so
+20:02:37.333:     linux-alsa.so
+20:02:37.333:     image-source.so
+20:02:37.333:     frontend-tools.so
+20:02:37.333: ---------------------------------
+20:02:37.333: ---------------------------------
+20:02:37.333: Available Encoders:
+20:02:37.333:   Video Encoders:
+20:02:37.333: 	- obs_x264 (x264)
+20:02:37.333:   Audio Encoders:
+20:02:37.333: 	- ffmpeg_aac (FFmpeg AAC)
+20:02:37.333: 	- ffmpeg_opus (FFmpeg Opus)
+20:02:37.333: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+20:02:37.333: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+20:02:37.333: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+20:02:37.333: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+20:02:37.333: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+20:02:37.333: ==== Startup complete ===============================================
+20:02:37.376: All scene data cleared
+20:02:37.376: ------------------------------------------------
+20:02:37.380: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+20:02:37.380: 	title: Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher - Brave
+20:02:37.380: 	class: brave-browser
+20:02:37.380: 
+20:02:37.381: Switched to scene 'Scene'
+20:02:37.381: ------------------------------------------------
+20:02:37.381: Loaded scenes:
+20:02:37.381: - scene 'Scene':
+20:02:37.381:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+20:02:37.381: ------------------------------------------------
+20:02:50.689: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+20:03:00.130: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+20:03:00.130: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+20:03:00.132: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+20:03:00.150: [camera-portal] Selected resolution for ''
+20:03:00.150: [camera-portal] Selected format for ''
+20:03:00.150: [camera-portal] selected camera ''
+20:03:00.161: [camera-portal] Error accessing camera: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Camera” on object at path /org/freedesktop/portal/desktop
