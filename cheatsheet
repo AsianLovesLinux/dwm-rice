@@ -1,0 +1,94 @@
+" =============================================
+" DWM Custom Keybindings Cheatsheet
+" =============================================
+
+" --- Push Windows ---
+" MOD + Shift + j   -> push down
+" MOD + Shift + k   -> push up
+
+" --- Wallpaper ---
+" Alt + w           -> open wallpaper switcher
+
+" --- Volume Controls (Aula F75) ---
+" XF86AudioRaiseVolume    -> increase volume
+" XF86AudioLowerVolume    -> decrease volume
+" XF86AudioMute           -> mute/unmute
+" XF86AudioMicMute        -> mic mute/unmute
+
+" --- Launch Applications ---
+" MOD + p           -> flameshot
+" MOD + w           -> rofi
+" MOD + f           -> brave
+" MOD + Enter       -> terminal
+
+" --- Toggle Bar ---
+" MOD + b           -> toggle DWM bar
+
+" --- Window Navigation ---
+" MOD + j           -> focus next window
+" MOD + k           -> focus previous window
+
+" --- Master Area ---
+" MOD + i           -> increase master windows
+" MOD + d           -> decrease master windows
+" MOD + g           -> decrease master size
+" MOD + l           -> increase master size
+
+" --- Client Factor ---
+" MOD + Shift + h   -> increase client factor
+" MOD + Shift + l   -> decrease client factor
+" MOD + Shift + o   -> reset client factor
+
+" --- Gaps (VanityGaps) ---
+" MOD + Alt + u     -> increase gaps
+" MOD + Alt + Shift + u -> decrease gaps
+" MOD + Alt + i     -> increase inner gaps
+" MOD + Alt + Shift + i -> decrease inner gaps
+" MOD + Alt + o     -> increase outer gaps
+" MOD + Alt + Shift + o -> decrease outer gaps
+" MOD + Alt + 6     -> increase inner horizontal gaps
+" MOD + Alt + Shift + 6 -> decrease inner horizontal gaps
+" MOD + Alt + 7     -> increase inner vertical gaps
+" MOD + Alt + Shift + 7 -> decrease inner vertical gaps
+" MOD + Alt + 8     -> increase outer horizontal gaps
+" MOD + Alt + Shift + 8 -> decrease outer horizontal gaps
+" MOD + Alt + 9     -> increase outer vertical gaps
+" MOD + Alt + Shift + 9 -> decrease outer vertical gaps
+" MOD + Alt + 0     -> toggle gaps
+" MOD + Alt + Shift + 0 -> reset gaps
+
+" --- Layouts ---
+" MOD + t           -> tiled
+" MOD + m           -> monocle
+" MOD + s           -> spiral
+" MOD + d           -> dwindle
+" MOD + c           -> grid
+" MOD + n           -> nrowgrid
+" MOD + v           -> horizgrid
+" MOD + e           -> gapplessgrid
+" MOD + x           -> floating
+" MOD + Space       -> cycle layout
+" MOD + Shift + Space -> toggle floating
+
+" --- Tag Management ---
+" MOD + 0           -> view all tags
+" MOD + Shift + 0   -> tag all windows
+
+" --- Monitor Management ---
+" MOD + ,           -> focus previous monitor
+" MOD + .           -> focus next monitor
+" MOD + Shift + ,   -> move window to previous monitor
+" MOD + Shift + .   -> move window to next monitor
+
+" --- Tag/Workspace Switching ---
+" MOD + 1..9        -> switch to tag 1..9
+" MOD + Shift + 1..9 -> move focused window to tag 1..9
+
+" --- Quit DWM ---
+" MOD + Shift + q   -> quit DWM
+
+" --- Mouse Bindings ---
+" MOD + click       -> move / resize / toggle floating windows
+" Click on tags     -> view / toggle view / tag windows
+" Click on status   -> spawn terminal
+
