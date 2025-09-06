@@ -1,47 +1,24 @@
-2025/09/01-16:39:06.694 17dc Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2025/09/01-16:39:06.694 17dc Recovering log #309
-2025/09/01-16:39:06.696 17dc Reusing old log /home/ryan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000309.log 
-2025/09/01-16:44:07.359 17cc Compacting 2@0 + 1@1 files
-2025/09/01-16:44:07.369 17cc Generated table #312@0: 29 keys, 64317 bytes
-2025/09/01-16:44:07.369 17cc Compacted 2@0 + 1@1 files => 64317 bytes
-2025/09/01-16:44:07.370 17cc compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/09/01-16:44:07.370 17cc Delete type=2 #304
-2025/09/01-16:44:07.370 17cc Delete type=2 #307
-2025/09/01-16:44:07.370 17cc Delete type=2 #310
-2025/09/01-16:59:07.839 17cc Compacting 1@1 + 1@2 files
-2025/09/01-16:59:07.839 17cc Level-0 table #314: started
-2025/09/01-16:59:07.844 17cc Level-0 table #314: 293873 bytes OK
-2025/09/01-16:59:07.846 17cc Delete type=0 #309
-2025/09/01-16:59:07.849 17cc Generated table #315@1: 29 keys, 64317 bytes
-2025/09/01-16:59:07.849 17cc Compacted 1@1 + 1@2 files => 64317 bytes
-2025/09/01-16:59:07.850 17cc compacted to: files[ 1 0 1 0 0 0 0 ]
-2025/09/01-16:59:07.850 17cc Delete type=2 #289
-2025/09/01-16:59:07.850 17cc Delete type=2 #312
-2025/09/01-17:11:08.229 17cc Moved #314 to level-1 293873 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2025/09/01-17:13:28.943 17cb Level-0 table #317: started
-2025/09/01-17:13:28.950 17cb Level-0 table #317: 298066 bytes OK
-2025/09/01-17:13:28.952 17cb Delete type=0 #313
-2025/09/01-17:16:09.009 17cb Level-0 table #319: started
-2025/09/01-17:16:09.016 17cb Level-0 table #319: 296272 bytes OK
-2025/09/01-17:16:09.018 17cb Delete type=0 #316
-2025/09/01-17:18:49.286 17cb Level-0 table #321: started
-2025/09/01-17:18:49.294 17cb Level-0 table #321: 295546 bytes OK
-2025/09/01-17:18:49.296 17cb Delete type=0 #318
-2025/09/01-17:19:04.255 17cc Level-0 table #323: started
-2025/09/01-17:19:04.263 17cc Level-0 table #323: 294706 bytes OK
-2025/09/01-17:19:04.265 17cc Delete type=0 #320
-2025/09/01-17:19:04.265 17cc Compacting 4@0 + 1@1 files
-2025/09/01-17:19:04.276 17cc Generated table #324@0: 58 keys, 64608 bytes
-2025/09/01-17:19:04.276 17cc Compacted 4@0 + 1@1 files => 64608 bytes
-2025/09/01-17:19:04.277 17cc compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/09/01-17:19:04.277 17cc Delete type=2 #321
-2025/09/01-17:19:04.277 17cc Delete type=2 #323
-2025/09/01-17:19:04.277 17cc Delete type=2 #314
-2025/09/01-17:19:04.277 17cc Delete type=2 #317
-2025/09/01-17:19:04.278 17cc Delete type=2 #319
-2025/09/01-17:19:24.292 17cc Level-0 table #326: started
-2025/09/01-17:19:24.300 17cc Level-0 table #326: 296305 bytes OK
-2025/09/01-17:19:24.301 17cc Delete type=0 #322
-2025/09/01-17:19:39.322 17cb Level-0 table #328: started
-2025/09/01-17:19:39.330 17cb Level-0 table #328: 296226 bytes OK
-2025/09/01-17:19:39.331 17cb Delete type=0 #325
+2025/09/05-16:40:04.027 5b8 Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/09/05-16:40:04.027 5b8 Recovering log #426
+2025/09/05-16:40:04.027 5b8 Reusing old log /home/ryan/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000426.log 
+2025/09/05-16:45:59.622 5b9 Level-0 table #431: started
+2025/09/05-16:45:59.629 5b9 Level-0 table #431: 318438 bytes OK
+2025/09/05-16:45:59.631 5b9 Delete type=0 #426
+2025/09/05-16:47:05.422 5b9 Level-0 table #433: started
+2025/09/05-16:47:05.429 5b9 Level-0 table #433: 314555 bytes OK
+2025/09/05-16:47:05.431 5b9 Delete type=0 #430
+2025/09/05-16:49:24.591 5b9 Level-0 table #435: started
+2025/09/05-16:49:24.599 5b9 Level-0 table #435: 316922 bytes OK
+2025/09/05-16:49:24.601 5b9 Delete type=0 #432
+2025/09/05-16:53:22.157 5b9 Level-0 table #437: started
+2025/09/05-16:53:22.193 5b9 Level-0 table #437: 315929 bytes OK
+2025/09/05-16:53:22.195 5b9 Delete type=0 #434
+2025/09/05-16:53:22.196 5b9 Compacting 4@0 + 1@1 files
+2025/09/05-16:53:22.205 5b9 Generated table #438@0: 75 keys, 72403 bytes
+2025/09/05-16:53:22.205 5b9 Compacted 4@0 + 1@1 files => 72403 bytes
+2025/09/05-16:53:22.206 5b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/05-16:53:22.206 5b9 Delete type=2 #428
+2025/09/05-16:53:22.206 5b9 Delete type=2 #431
+2025/09/05-16:53:22.206 5b9 Delete type=2 #433
+2025/09/05-16:53:22.206 5b9 Delete type=2 #435
+2025/09/05-16:53:22.206 5b9 Delete type=2 #437

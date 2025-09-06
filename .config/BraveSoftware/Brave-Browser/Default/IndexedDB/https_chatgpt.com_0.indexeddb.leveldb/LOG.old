@@ -1,3 +1,24 @@
-2025/09/01-17:24:41.919 2216 Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/09/01-17:24:41.919 2216 Recovering log #21
-2025/09/01-17:24:41.921 2216 Reusing old log /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000021.log 
+2025/09/05-17:56:53.156 15dc Reusing MANIFEST /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/05-17:56:53.156 15dc Recovering log #24
+2025/09/05-17:56:53.158 15dc Reusing old log /home/ryan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000024.log 
+2025/09/05-17:56:55.332 15dc Level-0 table #28: started
+2025/09/05-17:56:55.336 15dc Level-0 table #28: 1307663 bytes OK
+2025/09/05-17:56:55.338 15dc Delete type=0 #24
+2025/09/05-17:56:55.338 15dc Compacting 4@0 + 1@1 files
+2025/09/05-17:56:55.351 15dc Generated table #29@0: 387 keys, 169657 bytes
+2025/09/05-17:56:55.351 15dc Compacted 4@0 + 1@1 files => 169657 bytes
+2025/09/05-17:56:55.352 15dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/05-17:56:55.352 15dc Delete type=2 #16
+2025/09/05-17:56:55.352 15dc Delete type=2 #19
+2025/09/05-17:56:55.352 15dc Delete type=2 #22
+2025/09/05-17:56:55.352 15dc Delete type=2 #25
+2025/09/05-17:56:55.352 15dc Delete type=2 #28
+2025/09/05-17:56:55.353 15dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/09/05-17:56:55.353 15dc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x01\x1d\x00u\x00s\x00e\x00r\x00-\x00u\x00C\x00X\x00r\x00j\x006\x000\x00L\x00n\x00m\x00e\x005\x00M\x007\x00Z\x00M\x00b\x002\x00D\x00A\x00o\x00M\x00k\x00B\x00\x01$\x006\x008\x00b\x009\x00f\x008\x004\x005\x00-\x005\x006\x006\x004\x00-\x008\x003\x002\x00d\x00-\x009\x001\x008\x00c\x00-\x001\x00e\x00a\x000\x007\x009\x005\x00b\x00b\x007\x003\x005' @ 23081 : 1
+2025/09/05-17:56:55.353 15dc Compacting 1@1 + 1@2 files
+2025/09/05-17:56:55.355 15dc Generated table #30@1: 117 keys, 207057 bytes
+2025/09/05-17:56:55.355 15dc Compacted 1@1 + 1@2 files => 207057 bytes
+2025/09/05-17:56:55.356 15dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/05-17:56:55.357 15dc Delete type=2 #13
+2025/09/05-17:56:55.357 15dc Delete type=2 #29
+2025/09/05-17:56:55.357 15dc Manual compaction at level-1 from '\x00\x02\x01 \x01\x1d\x00u\x00s\x00e\x00r\x00-\x00u\x00C\x00X\x00r\x00j\x006\x000\x00L\x00n\x00m\x00e\x005\x00M\x007\x00Z\x00M\x00b\x002\x00D\x00A\x00o\x00M\x00k\x00B\x00\x01$\x006\x008\x00b\x009\x00f\x008\x004\x005\x00-\x005\x006\x006\x004\x00-\x008\x003\x002\x00d\x00-\x009\x001\x008\x00c\x00-\x001\x00e\x00a\x000\x007\x009\x005\x00b\x00b\x007\x003\x005' @ 23081 : 1 .. (end); will stop at (end)

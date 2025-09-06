@@ -1,8 +1,8 @@
 return {
     {
-	    "gbprod/nord.nvim",
+	    "folke/tokyonight.nvim",
 	    config = function ()
-		vim.cmd.colorscheme "nord"
+		vim.cmd.colorscheme "tokyonight-night"
 	    end
 	},
 	{
@@ -12,7 +12,7 @@ return {
 	    },
 	
 	    opts = {
-		theme = 'nord',
+		theme = 'tokyonight',
 	    }
 	},
 }

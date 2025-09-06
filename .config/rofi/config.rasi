@@ -1,6 +1,6 @@
 
 configuration {
-  modi: "drun,run,window,wallpaper:~/.config/rofi/wallpaper.sh";
+  modi: "drun,run,window,wallpaper:~/.config/rofi/wallpaper.sh,exit:~/.config/rofi/exit-menu.sh";
   show-icons: true;
   display-drun: "Search";
   display-run: "Search";
